@@ -1,0 +1,19 @@
+OAB Finding Date: 2016-06-DD
+Related OAB issue: https://portal.opengeospatial.org/index.php?m=projects&a=view&project_id=228&tab=5&act=details&issue_id=1027[Issue 1027 what does backwards compatibility mean?]
+
+Issue: Does a minor version change of some spec force a version increase for all dependent specs as well in order to be usable?
+
+OAB Direction: TBD
+
+Summary of discussion: +
+* Any extension must comply with all past requirements. +
+* All extensions must be backward compatible. +
+* Major version may or may not be an extension. +
+* Action: Chuck: send 19106 definitions for profiles: extensions vs. +
+* Three level versioning is in TC Policy Directives document 06-135r11 +
+
+
+How to close this issue +
+Chuck: communicate our summary to the members.   
+Backward compatiblity statement is an OAB Policy Guidance.
+Action George: mockup this guidance using the W3C example
