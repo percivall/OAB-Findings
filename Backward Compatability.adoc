@@ -1,9 +1,9 @@
-OAB Finding Date: 2016-06-DD
-Related OAB issue: https://portal.opengeospatial.org/index.php?m=projects&a=view&project_id=228&tab=5&act=details&issue_id=1027[Issue 1027 what does backwards compatibility mean?]
+OAB Finding Date: 2016-06-DD +
+Related OAB issue: https://portal.opengeospatial.org/index.php?m=projects&a=view&project_id=228&tab=5&act=details&issue_id=1027[Issue 1027 what does backwards compatibility mean?] +
 
-Issue: Does a minor version change of some spec force a version increase for all dependent specs as well in order to be usable?
+Issue: Does a minor version change of some spec force a version increase for all dependent specs as well in order to be usable? +
 
-OAB Direction: TBD
+OAB Direction: TBD +
 
 Summary of discussion: +
 * Any extension must comply with all past requirements. +
